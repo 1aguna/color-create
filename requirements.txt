@@ -1,0 +1,7 @@
+keras
+tensorflow
+colorgram.py
+numpy 
+scipy
+scikit-learn
+joblib
